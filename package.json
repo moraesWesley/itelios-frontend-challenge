@@ -1,0 +1,23 @@
+{
+  "name": "itelios-frontend-challenge",
+  "version": "1.0.0",
+  "description": "![Itelios](http://www.itelios.com.br/images/logo_itelios_orange@2x.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moraesWesley/itelios-frontend-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moraesWesley/itelios-frontend-challenge/issues"
+  },
+  "homepage": "https://github.com/moraesWesley/itelios-frontend-challenge#readme",
+  "devDependencies": {
+    "bower": "^1.8.2",
+    "gulp": "^3.9.1"
+  }
+}
